@@ -1,6 +1,6 @@
 import re
 
-
+# Token
 token_patterns = [
     ('invalid_id', r'\d+[a-zA-Z_]+[a-zA-Z0-9_]*'),  
     ('invalid_number', r'\d*\.\d*\.\d*|\d*\.\.\d*|\.\d+\.'), 
