@@ -53,6 +53,8 @@ def main():
     code = """
 3Celsius := 100.0
 Fahrenheit$ := (9../5)*Celsius+%32
+Celsius := 100.0 
+Fahrenheit := (9/5)*Celsius+32 
 """
 
 
